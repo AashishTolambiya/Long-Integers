@@ -1,0 +1,99 @@
+------------
+Test Case 1: (Addition)
+------------
+
+1. Addition of Large Integers
+2. Multiplication of Large Integers
+3. Expression Evaluation
+4. Again
+5. Exit
+
+Press one option: 1
+
+Enter first number in Base 10000 format (dddd,dddd,...,dddd$) :
+1111$
+
+Enter second number in Base 10000 format (dddd,dddd,...,dddd$) :
+9999$
+
+Result after addition:
+0001,1110
+
+
+------------
+Test Case 2: (Multiplication)
+------------
+
+1. Addition of Large Integers
+2. Multiplication of Large Integers
+3. Expression Evaluation
+4. Again
+5. Exit
+
+Press one option: 2
+
+Enter first number in Base 10000 format (dddd,dddd,...,dddd$) :
+3333$
+
+Enter second number in Base 10000 format (dddd,dddd,...,dddd$) :
+7777$
+
+Result after multiplication:
+2592,0741
+
+
+------------
+Test Case 3: (Expression Evaluation)
+------------
+
+1. Addition of Large Integers
+2. Multiplication of Large Integers
+3. Expression Evaluation
+4. Again
+5. Exit
+
+Press one option: 3
+
+Enter expression in Base 10000 format (dddd,dddd,...,dddd$), getting terminated by '=' symbol :
+1111,0411,4111,1111,0011$+2222,2222$*0003$=
+
+Result of Expression:
+3333,1234,2333,9999,6699
+
+
+------------
+Test Case 4: (Invalid Input Format Error)
+------------
+
+1. Addition of Large Integers
+2. Multiplication of Large Integers
+3. Expression Evaluation
+4. Again
+5. Exit
+
+Press one option: 1
+
+Enter first number in Base 10000 format (dddd,dddd,...,dddd$) :
+111,Invalid number, please enter again!
+
+
+------------
+Test Case 5: (Long Integers Continuous Expression Evaluation) 
+------------
+
+
+1. Addition of Large Integers
+2. Multiplication of Large Integers
+3. Expression Evaluation
+4. Again
+5. Exit
+
+Press one option: 3
+
+Enter expression in Base 10000 format (dddd,dddd,...,dddd$), getting terminated by '=' symbol :
+9999,9999$*5555,5555$+2323,2323$*1212,1212$+1111$=
+
+Result of Expression:
+1885,5218,5601,4692,5240,3927
+
+
